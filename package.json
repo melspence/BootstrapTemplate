@@ -1,0 +1,24 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melville Spence",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.0",
+    "tether": "^1.4.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
